@@ -87,3 +87,19 @@ body{
     background: #00f;
     filter: drop-shadow(0 0 50px #00f);
 }
+footer{
+    position: absolute;
+    width: 100%;
+    padding: 15px 23px;
+    background: #1b1b1a;
+    text-align: center;
+    color: #fff;
+    bottom: 0;
+}
+footer a{
+    color: crimson;
+    text-decoration: none;
+}
+footer a:hover {
+    text-decoration: underline;
+}
